@@ -116,5 +116,5 @@ class AkunSilver(AkunBank):
 
 
 
-Akun1 = AkunGold("Radot", 2021, 1300000)
-Akun1.transfer_saldo(500000)
+Akun1 = AkunGold("gaplek", 2003, 13000)
+Akun1.transfer_saldo(5500000)
